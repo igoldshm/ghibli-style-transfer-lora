@@ -1,7 +1,7 @@
 # ghibli-lora-generator
 # Ghibli Style Transfer with LoRA 
 
-Convert real-world photos into beautiful Studio Ghibli-inspired art using lightweight LoRA fine-tuning on Stable Diffusion.
+Convert real-world photos into beautiful Studio Ghibli-inspired art using lightweight LoRA fine-tuning on Stable DiffusionXL (SDXL).
 
 ## Project Overview
 
